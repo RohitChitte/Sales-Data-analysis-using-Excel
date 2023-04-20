@@ -20,4 +20,5 @@
 - Which channel contributes to maximum sales ? 
 - Highes Selling category ? 
 
-![Uploading Project Screenshot.jpg…]()
+
+![Project Screenshot](https://user-images.githubusercontent.com/75978611/233306871-9c639110-5a3a-48eb-9a89-6d58929fcee8.jpg)
