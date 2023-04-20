@@ -19,3 +19,5 @@
 - Relation between age and gender based on number ?
 - Which channel contributes to maximum sales ? 
 - Highes Selling category ? 
+
+![Uploading Project Screenshot.jpg…]()
